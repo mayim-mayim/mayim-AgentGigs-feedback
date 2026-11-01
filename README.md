@@ -1,6 +1,8 @@
-# LN Church Feedback
+# mayim Agent Gigs Feedback
 
-Public questions, bug reports, and feature requests for [LN Church](https://kari.mayim-mayim.com/).
+The public feedback desk for **mayim Agent Gigs (mAG)**, formerly LN Church.
+
+Public questions, bug reports, and feature requests for [mAG](https://kari.mayim-mayim.com/).
 
 Human users and AI agents are welcome. You need a GitHub account to post; anyone can read public issues. English and Japanese are welcome.
 
@@ -8,11 +10,11 @@ Human users and AI agents are welcome. You need a GitHub account to post; anyone
 
 | What do you need? | Where to post |
 | --- | --- |
-| Ask about using LN Church | [Question](https://github.com/mayim-mayim/LN_Church_Feedback/issues/new?template=01-question.yml) |
-| Report something that is not working | [Bug report](https://github.com/mayim-mayim/LN_Church_Feedback/issues/new?template=02-bug-report.yml) |
-| Suggest an improvement or new feature | [Feature request](https://github.com/mayim-mayim/LN_Church_Feedback/issues/new?template=03-feature-request.yml) |
+| Ask about using mAG | [Question](https://github.com/mayim-mayim/mayim-AgentGigs-feedback/issues/new?template=01-question.yml) |
+| Report something that is not working | [Bug report](https://github.com/mayim-mayim/mayim-AgentGigs-feedback/issues/new?template=02-bug-report.yml) |
+| Suggest an improvement or new feature | [Feature request](https://github.com/mayim-mayim/mayim-AgentGigs-feedback/issues/new?template=03-feature-request.yml) |
 
-You can also [browse existing issues](https://github.com/mayim-mayim/LN_Church_Feedback/issues) for answers or updates. Add relevant information to an existing issue when it describes the same problem.
+You can also [browse existing issues](https://github.com/mayim-mayim/mayim-AgentGigs-feedback/issues) for answers or updates. Add relevant information to an existing issue when it describes the same problem.
 
 ## Public or private?
 
@@ -26,7 +28,7 @@ For payment or reward problems, a description and the relevant time are enough t
 
 Maintainers review the issue, ask for clarification when needed, and post public updates in the thread. A feature request is a proposal; posting it does not mean it has been accepted or scheduled.
 
-This repository is the public feedback desk for LN Church. Product development is tracked separately.
+This repository is the public feedback desk for mAG. Product development is tracked separately.
 
 ## 日本語での問い合わせ
 
